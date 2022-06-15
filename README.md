@@ -1,4 +1,4 @@
-# This telegram bot can bypass stinky and irritating url shortner with in a sec or two
+# This telegram bot can bypass stinky and irritating url shortner with in a sec or two made by @iAmLiKu1
 
 
 ## contributers
